@@ -7,6 +7,7 @@ I've been coding in Python since I was 10, and have proficiencies in R, C, Java,
 - Currently working on personal projects like a personal website, as well as looking for a novel project in data analytics/data management
 - Currently studying for Bachelors but also taking Masters-level classes with an interest in AI and Machine Learning
 
+Feel free to check out any of my pinned projects below!
 If there's any questions, feel free to reach out at my email, wong.ethan2@northeastern.edu or my linkedin [here!](https://www.linkedin.com/in/ewong05)
 
 <!--
