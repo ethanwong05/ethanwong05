@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there!
+
+# My name is Ethan Wong, and I am a rising third-year student at Northeastern University studying a dual-degree in Computer Science and Political Science
+
+I've been coding in Python since I was 10, and have proficiencies in R, C, Java, Kotlin, NextJS, React, SQL, and MongoDB outside of that.
+
+- Currently working on personal projects like a personal website, as well as looking for a novel project in data analytics/data management
+- Currently studying for Bachelors but also taking Masters-level classes with an interest in AI and Machine Learning
+
+If there's any questions, feel free to reach out at my email, wong.ethan2@northeastern.ed
 
 <!--
 **ethanwong05/ethanwong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
