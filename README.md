@@ -1,6 +1,6 @@
 ## Hey there!
 
-# My name is Ethan Wong, and I am a rising third-year student at Northeastern University studying a dual-degree in Computer Science and Political Science
+### My name is Ethan Wong, and I am a rising third-year student at Northeastern University studying a dual-degree in Computer Science and Political Science
 
 I've been coding in Python since I was 10, and have proficiencies in R, C, Java, Kotlin, NextJS, React, SQL, and MongoDB outside of that.
 
