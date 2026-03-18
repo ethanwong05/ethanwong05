@@ -5,6 +5,8 @@
 I've been coding in Python since I was 10, and have proficiencies in R, C, Java, Kotlin, Typescript, NextJS, React, SQL, NoSQL, and MongoDB besides that.
 
 - Currently working on personal projects like a personal website (see the webapp repository or ethanwong05.vercel.app, currently looking for a domain), as well as looking for a novel project in data analytics/data management
+- Working as a full-stack engineer & partial DevOps engineer with NExT Consulting to provide them with a bespoke web application to track co-op applications (similar to Workday), shifting away from Notion surveys
+- Currently working on a secret comic grading project...
 - Just finished a co-op where I learned applicable skills in research, and got to work with state-of-the-art AI tools
 - Currently studying for Bachelors but also taking Masters-level classes with an interest in AI and Machine Learning
 
