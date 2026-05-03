@@ -1,14 +1,20 @@
 ## Hey there!
 
-### My name is Ethan Wong, and I am a current third-year student at Northeastern University and a candidate for a dual-degree in Computer Science and Political Science
+### My name is Ethan Wong, and I am a rising Senior student at Northeastern University and a candidate for a dual-degree in Computer Science and Political Science
 
-I've been coding in Python since I was 10, and have proficiencies in R, C, Java, Kotlin, Typescript, NextJS, React, SQL, NoSQL, and MongoDB besides that.
+I've been coding in Python since I was 10, and have proficiencies in R, C, C++, Java, Kotlin, Typescript, Terraform, NextJS, React, SQL, NoSQL, and MongoDB besides that.
 
-- Currently working on personal projects like a personal website (see the webapp repository or ethanwong05.vercel.app, currently looking for a domain), as well as looking for a novel project in data analytics/data management
-- Working as a full-stack engineer & partial DevOps engineer with NExT Consulting to provide them with a bespoke web application to track co-op applications (similar to Workday), shifting away from Notion surveys
+### Here are some of the personal projects I'm working on:
+- I'm always working on my personal website (ethanwong05.vercel.app) to try and add a more personal touch while still being recruiter friendly
+- Currently, I'm also looking for a way to use sentiment analysis & free news apis to create a smart etf recommendation system for trading on Charles Schwab
+- Always looking for any idea in development for campaign tech and/or database administration in Political Science fields!
+
+### Other things I'm doing...
+- Finished a co-op last year as a Software Engineering Consultant and Tech Lead at NExT Consulting, where I did state-of-the-art AI research and development for enhancing learning/tutoring
+- Recently finished (as of April 2026) making the baseline codebase for NExT Consulting's **Gateway**, a new applicant tracking system, where I worked as both a Full-Stack developer and DevOps engineer
 - Currently working on a secret comic grading project...
-- Just finished a co-op where I learned applicable skills in research, and got to work with state-of-the-art AI tools
-- Currently studying for Bachelors but also taking Masters-level classes with an interest in AI and Machine Learning
+- Incoming Customer Success Engineer Co-op at IBM for tech development and sales...
+- Currently studying for a Bachelor's degree at Northeastern, but also taking Master's-level classes with an interest in AI and Machine Learning
 
 Feel free to check out any of my pinned projects below!\
 If there's any questions, feel free to reach out at my email, wong.ethan2@northeastern.edu or my linkedin [here!](https://www.linkedin.com/in/ewong05)
